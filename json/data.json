@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Some Movie",
+        "release_year": "1985",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91WNnQZdybL._AC_SY679_.jpg"
+    },
+    {
+        "title": "Other Movie",
+        "release_year": "1986",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91jatiUZjtL._AC_SY741_.jpg"
+    }
+]
